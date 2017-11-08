@@ -7,6 +7,12 @@ This web page uses **flexbox**, **custom CSS properties**, **CSS variables**, **
 The main purpose of this website is to show how easy and useful flexbox is.<br>
 The entire website is designed around the flexbox properties.
 
+## Screenshot:
+
+  <p align="center">
+      <img src="img/screenshot.png" width="500px" padding="10px"/>
+  </p>
+
 ## Resources:
 
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
